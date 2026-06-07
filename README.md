@@ -46,12 +46,9 @@ HTML • CSS • JavaScript • React • Node.js • Firebase • Git & GitHub
 🗄️ Databases:
 MySQL • MongoDB
 
----
-
 ### 📄 Resume
 
-📝 [View Here]([https://drive.google.com/file/d/1BcUv17XnOohlneUVyaQKl_YghffMnrRz/view?usp=sharing](https://drive.google.com/file/d/1N4io0eyi19trTwZA7FUtMugqT_Boy3eW/view?usp=sharing))  
-
+🔗 [View My Resume](https://drive.google.com/file/d/1N4io0eyi19trTwZA7FUtMugqT_Boy3eW/view?usp=sharing)
 ---
 
 ### 🚀 Current Focus
